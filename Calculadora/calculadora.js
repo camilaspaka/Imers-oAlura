@@ -1,4 +1,4 @@
-var valorEmDolar = 30
+var valorEmDolar = 10
 var cotacaoDoDolar = 5.32
 
 var ValorEmReal = valorEmDolar * cotacaoDoDolar;
